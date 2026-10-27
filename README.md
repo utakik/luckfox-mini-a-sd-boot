@@ -70,4 +70,6 @@ component in `sd_update.txt`. The script parses that file and requires every
 value to match the known Mini A MicroSD layout above. If a future bundle changes
 the layout, the script stops instead of silently producing a misplaced image.
 
+## LuckfoxをUSBカードリーダーなしでフォーマットし、Linuxをインストールする方法（Windowsのみ）
+
 
