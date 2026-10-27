@@ -1,0 +1,21 @@
+# Vendor firmware and generated disk images must not be committed.
+*.img
+*.bin
+*.zip
+*.7z
+*.rar
+*.xz
+*.gz
+*.tar
+
+# Hashes and local working directories
+*.sha256
+firmware/
+output/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
